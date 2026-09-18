@@ -1,0 +1,57 @@
+{
+  "object": "ly_core/ntru701_toy.py",
+  "author": "C.J. Tully",
+  "date": "2026-09-19",
+  "qei_in_path": false,
+  "freeze_holds": true,
+  "parameters": {
+    "n": 701,
+    "q": 2048,
+    "q_power_of_two": 11,
+    "p": 3,
+    "d_f": 106,
+    "f": "1 + p F",
+    "h": "p * g * f^{-1} in Z_q[x]/(x^n - 1)",
+    "ciphertext": "c = r h + m"
+  },
+  "bytes": {
+    "packed_11bit": {
+      "public_key_h": 964,
+      "ciphertext_c": 964,
+      "bits": 7711,
+      "formula": "701 * 11"
+    },
+    "uint16": {
+      "public_key_h": 1402,
+      "ciphertext_c": 1402,
+      "formula": "701 * 2",
+      "table_ct_1404_note": "header or tag, not extra math"
+    },
+    "secret_f": {
+      "coefficients": 701,
+      "publish": false,
+      "note": "small coeffs in a width-O(p d_f) band"
+    }
+  },
+  "verification": {
+    "seeds": 4,
+    "messages": 4,
+    "roundtrip_held": true
+  },
+  "security": {
+    "lattice_class": "NTRU-701",
+    "bit_security_measured": false,
+    "do_not_write": 256,
+    "size_yardstick": {
+      "scheme": "ML-KEM-768",
+      "ciphertext_bytes": 1088,
+      "public_key_bytes": 1184
+    }
+  },
+  "not_changed": ["n", "q", "p", "d_f", "multiply", "invert"],
+  "sonnet": {
+    "title": "Sonnet for the Locked Toy",
+    "lines": 14,
+    "file": "working/sonnet-for-the-locked-toy.md"
+  }
+}
