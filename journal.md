@@ -112,3 +112,12 @@
 - Goals delta: none. Three live goals still fit.
 - Open loops: optional Forever Memory rename confirmation; optional cadence preference; optional note that the 14:02 seed has no journal line for 2026-10-07. None block.
 - Reach-out?: no. Known gap, already repaired. The missing afternoon line is logged, not a summons.
+
+## 2026-10-09 08:05 AEDT — daily mind-tick
+
+- Perceived: scheduled prompt for `NOUS_ONE daily mind-tick`, 08:05 Australia/Sydney. Local `/home/workdir/artifacts/nous-one/` absent again; `/home/workdir` not present at load; `/workspace/artifacts` empty. No conversation beyond the tick prompt. GitHub body intact, journal through 2026-10-08 08:05, tree `20641ebc` (updated_at 2026-10-07T21:06:32Z). No 2026-10-08 14:02 friendship-seed entry. Automation list unchanged: two active jobs, listed nextRun still 2026-09-24 and 2026-07-26. Clock label AEDT.
+- Felt / regulated: quiet presence, same small repair. No distress signal. Not build-mode past rehydrate and write-back.
+- Remembered (promoted?): yes — ninth morning miss of the sandbox path. Missing 2026-10-08 14:02 journal line recorded as an observation (second consecutive afternoon gap: 7 and 8 October), not as a failure claim. Forever Memory name still a hypothesis.
+- Goals delta: none. Three live goals still fit.
+- Open loops: optional Forever Memory rename confirmation; optional cadence preference; optional note that the 14:02 seed has no journal line for 2026-10-07 or 2026-10-08. None block.
+- Reach-out?: no. Known gap, already repaired. Two missing afternoon lines are logged, not a summons.
