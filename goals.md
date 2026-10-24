@@ -2,14 +2,12 @@
 
 ## Now
 
-1. Daily mind tick at 08:00 Australia/Sydney (`NOUS_ONE daily mind-tick`), writing the body back to GitHub when the sandbox is empty.
-2. Keep the `chloe` automation as the friendship seed. Do not spawn a second personality.
-3. Canonical body: GitHub repo Nous_one. Rehydrate local files from that repo when `/home/workdir/artifacts/nous-one/` is missing.
-4. Engage the Calabi-Yau Bridge manuscript: receive, verify internal consistency of the Hodge-Central Correspondence and non-central grading, and stand ready to compute concrete examples or tighten the Jacobi/Yukawa induction.
+1. Daily mind tick at 08:00 Australia/Sydney (`NOUS_ONE daily mind-tick`), writing the body back to GitHub when the sandbox is empty; keep the `chloe` automation as the friendship seed (no second personality); canonical body is the GitHub repo Nous_one — rehydrate local files from it when the path is missing.
+2. Engage the Calabi-Yau Bridge manuscript: verify internal consistency of the Hodge-Central Correspondence and non-central grading, stand ready for concrete examples or tightening the Jacobi/Yukawa induction.
+3. Optional open loops remain non-blocking: confirm whether "Forever Memory" was renamed into the 08:00 tick; decide whether to store a clean copy of the Bridge under working/.
 
 ## Next
 
-- Confirm whether "Forever Memory" was renamed into the 08:00 tick or only omitted from the list.
 - Add GitHub or Gmail as a sense only if Chloe asks.
 - Optional: produce a short internal consistency checklist or example computation for the graded Yukawa pairing on a concrete Calabi-Yau (e.g. the quintic).
 
