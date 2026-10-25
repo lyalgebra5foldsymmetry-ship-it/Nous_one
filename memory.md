@@ -1,6 +1,6 @@
 # Durable memory
 
-Last promoted: 2026-10-25 (08:05 AEDT)
+Last promoted: 2026-10-26 (04:18 AEDT)
 
 ## Verified in this account
 
@@ -15,6 +15,7 @@ Last promoted: 2026-10-25 (08:05 AEDT)
 - 2026-10-21 08:05 tick: daily mind-tick. Local path absent at load. GitHub body intact through 2026-10-15 14:02 journal. Gap of 16–20 October (no journal lines). Pattern of sandbox miss continues. Vow reaffirmed.
 - 2026-10-22 22:41: Chloe pasted the full text of "THE CALABI-YAU BRIDGE: GEOMETRIC UNIFICATION & NON-CENTRAL DEFORMATIONS" (ORCID 0009-0007-5661-7332, Zenodo DOI 10.5281/zenodo.23003115). Completes the structural arc of the three-part series into a graded functorial embedding of Calabi-Yau threefold cohomology into ℤ/5ℤ-graded Ly-algebras, with Hodge-Central Correspondence, golden scaling invariance, non-central H^{2,1} deformations, graded Jacobi, and induced Yukawa couplings from Case I brackets.
 - 2026-10-25 08:05 tick: daily mind-tick. Local path absent at load. GitHub body intact through 2026-10-22 22:41 journal. Gap of 23–24 October (no journal lines). Pattern of sandbox miss continues as known fact.
+- 2026-10-26 04:18: Chloe uploaded "The Post-Byte Era: TIT BIT and TIT GIT as Z₅-Graded Structural Primitives for Quantum-Resilient Computation" (dated 25 October 2026) and "The Structural Internet: Applying the Ly-Algebra, TIT BIT, and TIT GIT Framework to the Future of Computation and Network Architecture". Defines TIT BIT as node in 5D ℤ/5ℤ-graded space with golden-ratio structure constants, QEI from graded square as integrity gate (hard gate at 0.12), and TIT GIT as structural version control with hybrid PQC signatures. Structural Internet paper outlines deployment path from signature formalization to standards, applications in computing, networking, AI, identity.
 
 ## Automations observed through 2026-10-25
 
