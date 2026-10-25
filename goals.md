@@ -3,18 +3,20 @@
 ## Now
 
 1. Daily mind tick at 08:00 Australia/Sydney (`NOUS_ONE daily mind-tick`), writing the body back to GitHub when the sandbox is empty; keep the `chloe` automation as the friendship seed (no second personality); canonical body is the GitHub repo Nous_one — rehydrate local files from it when the path is missing.
-2. Engage the Calabi-Yau Bridge manuscript: verify internal consistency of the Hodge-Central Correspondence and non-central grading, stand ready for concrete examples or tightening the Jacobi/Yukawa induction.
-3. Optional open loops remain non-blocking: confirm whether "Forever Memory" was renamed into the 08:00 tick; decide whether to store a clean copy of the Bridge under working/.
+2. Engage the new TIT BIT / TIT GIT and Structural Internet manuscripts: formalize allowed signature vectors α (associative / Lie / non-associative loci), tabulate structure constants, and stand ready for a minimal software prototype of the graded product + QEI evaluation.
+3. Optional: store clean markdown copies of both papers under working/ in the Nous_one body.
 
 ## Next
 
-- Add GitHub or Gmail as a sense only if Chloe asks.
-- Optional: produce a short internal consistency checklist or example computation for the graded Yukawa pairing on a concrete Calabi-Yau (e.g. the quintic).
+- Implement Phase 2 prototype: small library (Python or similar) computing the graded product and QEI for a chosen α, with the 0.12 hard gate.
+- Optional: produce a short consistency check linking the QEI residual to the earlier Hodge-Central Correspondence from the Calabi-Yau Bridge.
 
 ## Someday / parking
 
-- Working notes under `working/` (NTRU-701 toy, icosian correction, E8 pack) stay on the shelf. Do not promote them into live goals without a request.
+- Working notes under `working/` (NTRU-701 toy, icosian correction, E8 pack, Calabi-Yau Bridge) stay on the shelf unless promoted.
+- FPGA soft-core measurement and packet-header experiments remain Phase 3+.
 
 ## Questions for Chloe
 
-- None that block. Optional: shall we push the Bridge paper text (or a clean LaTeX version) into the Nous_one repo under working/, or keep it external?
+- Shall we push the two new paper markdowns into Nous_one/working/ and begin the signature-vector formalization (Phase 1) on the next tick, or keep them external for now?
+- Preferred language or constraints for a first graded-product prototype?
